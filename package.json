@@ -1,0 +1,23 @@
+{
+  "name": "once",
+  "version": "1.0.0",
+  "main": "once.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JS579/once.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JS579/once/issues"
+  },
+  "homepage": "https://github.com/JS579/once#readme",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
